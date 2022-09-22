@@ -1,7 +1,7 @@
 # Bot configuration file
 # ======================
-bot_token = "000000000:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-bot_username = "mybotusername"
+bot_token = "2020103277:AAGfazq6Jp5ZyrSUSnreYd8wleiOtHvdBp0"
+bot_username = "Takanashi_RikkaBot"
 bot_id = 00000000000
 log_channel = -1010101010101010
 language = 'it' #check 'strings.ini' file [en, es, ru, ...]
